@@ -15,6 +15,4 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polonskaia&theme=onedark)](https://github.com/polonskaia/github-readme-stats)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polonskaia&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polonskaia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
