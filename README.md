@@ -10,6 +10,8 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Figma" height="39px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvENQs8Dh0oxwzxhpRhCNzCANVBkRZ-TBo0Pe4y5ss6E5nJag31R3Lfg8rTfaNvwiQ0Y&usqp=CAU" />
+<img align="left" alt="Python" height="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvENQs8Dh0oxwzxhpRhCNzCANVBkRZ-TBo0Pe4y5ss6E5nJag31R3Lfg8rTfaNvwiQ0Y&usqp=CAU" />
+<img align="left" alt="Linux" height="35px" src="https://www.flaticon.com/free-icon/linux_6124995" />
 <br />
 <br />
 
