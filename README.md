@@ -12,6 +12,7 @@
 <img align="left" alt="Figma" height="39px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvENQs8Dh0oxwzxhpRhCNzCANVBkRZ-TBo0Pe4y5ss6E5nJag31R3Lfg8rTfaNvwiQ0Y&usqp=CAU" />
 <img align="left" alt="Python" height="35px" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" />
 <img align="left" alt="Linux" height="35px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+<img align="left" alt="Vagrant" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-vagrant-icon-svg-download-png-1174986.png?f=webp&w=128" />
 <br />
 <br />
 
